@@ -1,4 +1,3 @@
-pyTelegramBotAPI
+aiogram
 requests
-urllib3
-flask
+aiohttp
